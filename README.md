@@ -143,5 +143,4 @@ We haven't found a centralized source of comparison between the different tools 
 [86]: https://kubernetes.io/docs/user-guide/services/#environment-variables
 [87]: https://kubernetes.io/docs/user-guide/persistent-volumes/
 
-PS: Thanks to whoever initiated this thread first.
 
